@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
         </div>
         <div className="m-auto">
           <a
-            href="https://bit.ly/3RKwYlQ"
+            href=""
             className="inline-block px-4 py-2 leading-none border text-md  rounded-2xl shadow-sm text-black hover:bg-blue4600 mt-0"
           >
             Blog
