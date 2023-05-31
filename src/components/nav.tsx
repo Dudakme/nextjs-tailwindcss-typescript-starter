@@ -8,7 +8,7 @@ const Navbar: React.FC = () => {
       <div className="flex items-center flex-shrink-0 text-black mr-6">
         <Link href='/'>
           <span className="font-semibold text-xl tracking-tight hover:cursor-pointer">
-            <Image src="/images/Logo.png" width={50} height={30} ></Image>
+            <Image src="/images/Logo.png" width={50} height={30} alt='hi'></Image>
           </span>
         </Link>
       </div>
