@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import WaveAnimation from "../waveAnimation";
 import bg from "../../../public/images/footballpitch.png"
 
 const Slider: React.FC = () => (
